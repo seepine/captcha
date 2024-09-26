@@ -1,0 +1,10 @@
+artifact: ${project.groupId}:${project.artifactId}:${project.version}
+name: captcha
+#description: Do something useful.
+metadata:
+  keywords:
+    - captcha
+  guide: https://github.com/seepine/captcha
+  categories:
+    - "middleware"
+  status: "preview"

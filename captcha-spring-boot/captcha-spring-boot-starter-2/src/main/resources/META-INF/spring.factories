@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.seepine.captcha.spring.CaptchaConfiguration,\
+  com.seepine.captcha.spring.config.InterceptorConfig
